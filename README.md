@@ -1,4 +1,4 @@
-# LawMatic-B2-Windows
+# LawMatic B2 для Windows
 Описание проекта LawMatic B2 для Windows и условий получения доступа к исходным кодам проекта. Этот репозиторий также содержит общую информацию о проекте и примеры использования, доступные для всех.
 
 ![Scr_moek_lawmaticb2win](https://github.com/user-attachments/assets/8f043a19-c40d-45e4-a96c-72e99a15e44f)
